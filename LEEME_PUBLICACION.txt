@@ -1,0 +1,20 @@
+# Sitio estático de consulta — Granada 2008
+
+Contenido seleccionado del CD de las I Jornadas Andaluzas de Investigación e Innovación Educativa (Granada, 29–30 de octubre de 2008).
+
+## Publicación con GitHub Pages
+1. Cree un repositorio público de GitHub. **Atención:** GitHub Pages en cuentas personales es público.
+2. Suba el contenido de esta carpeta directamente a la raíz del repositorio (no suba solo el ZIP).
+3. En Settings → Pages, configure Deploy from a branch → main → /(root) → Save.
+4. Acceda al enlace que muestre GitHub Pages. Puede tardar unos minutos en publicarse.
+
+## Contenido
+- index.html: página inicial de consulta, adaptada sin Adobe Flash.
+- portada_original_recuperada.png: captura de la portada original ejecutada mediante Ruffle.
+- documentos/comunicacion_1294.pdf: PDF original del CD.
+- documentos/poster_P1294.pdf: PDF original del CD.
+
+## Nota sobre derechos de difusión
+Antes de activar una publicación abierta al público, confirme que puede difundir los PDF y la portada (la comunicación tiene tres autores y procede de una edición colectiva). Como alternativa, comparta estos archivos mediante acceso restringido con el Servicio de Innovación Educativa.
+
+Esta web es una selección documental; no equivale a la publicación completa ni a una certificación editorial.
